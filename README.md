@@ -4,7 +4,7 @@ Este projeto implementa um sistema de monitoramento da qualidade do combustível
 
 ## Código e Documentação
 
-O código principal está localizado na pasta `src/` e foi desenvolvido na **Arduino IDE**. O arquivo principal `arduino_code.ino` inclui a configuração da conexão Wi-Fi, envio de dados via MQTT e controle da bomba submersível com base nas leituras do sensor de etanol.
+Os códigos principais estão como Código Arduno e Código ESP-01 e foram desenvolvido na **Arduino IDE**. Os arquivos incluem a configuração da conexão Wi-Fi, envio de dados via MQTT e controle da bomba submersível com base nas leituras do sensor de etanol.
 
 ## Hardware
 
