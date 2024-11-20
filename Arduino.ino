@@ -4,8 +4,8 @@
 #include <PubSubClient.h>
 
 // Configurações de rede Wi-Fi
-const char* ssid = "Nome do wifi";
-const char* password = "senha do wifi";
+const char* ssid = "wifi_ssid";
+const char* password = "wifi_senha";
 
 // Configurações do broker MQTT
 const char* mqtt_server = "test.mosquitto.org";
